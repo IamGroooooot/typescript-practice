@@ -1,0 +1,14 @@
+{
+  "name": "typescript-practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:IamGroooooot/typescript-practice.git",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "author": "IamGroooooot <dury.ko@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
